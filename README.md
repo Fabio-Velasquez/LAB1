@@ -10,7 +10,7 @@ This respository will present a flashcard app made by using android studio with 
 ### App Walk-though
 
 
-<img src="https://imgur.com/gallery/WnMAUwF" width=200><br>
+<img src="https://i.imgur.com/500oafO.gif" width=400 height=400><br>
 
 
 
