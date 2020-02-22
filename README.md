@@ -11,7 +11,7 @@ This respository will present a flashcard app made by using android studio with 
 
 
 <img src="https://imgur.com/gallery/WnMAUwF" width=200><br>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WnMAUwF"><a href="//imgur.com/a/WnMAUwF">LAB 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 ## Required
